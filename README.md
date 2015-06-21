@@ -1,3 +1,3 @@
 # gitbook_writer_guide_omooc
 
-double
+double text
